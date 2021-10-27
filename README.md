@@ -13,7 +13,7 @@ composer install --no-scripts
 ```
 cp .env.example .env
 ```
-*Antenção: Nenhuma alteção necessária no arquivo .env*
+*Antenção: Nenhuma alteração necessária no arquivo .env*
 
 **Crie uma nova chave para a aplicação**
 ```
